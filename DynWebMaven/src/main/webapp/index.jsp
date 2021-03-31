@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>ich bin Paluchen Penis und ich mache lululululu bla bla</h1>
+<h1>lululululu bla bla</h1>
 
 <%
    Date date = new Date();
